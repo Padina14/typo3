@@ -96,7 +96,7 @@ After:
        identifier: EmailToReceiver
        options:
          replyToRecipients:
-           rt@example.org@example.org: 'Reply-To Example'
+           rt@example.org: 'Reply-To Example'
 
 
 Multiple Carbon Copy (CC) Recipients
